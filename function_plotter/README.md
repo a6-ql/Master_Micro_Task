@@ -16,5 +16,9 @@ A Python GUI program to plot two functions of x and find their intersection poin
 1. Install dependencies:
    ```bash
    pip install PySide2 matplotlib pytest pytest-qt
+2.Run the program:  
+   ```bash
    python main.py
+3.Run tests::  
+   ```bash
    pytest tests/
