@@ -9,8 +9,8 @@ A Python GUI program to plot two functions of x and find their intersection poin
 - Automated tests using pytest and pytest-qt.
 
 ## Screenshots
-![Working Example](screenshots/working_example.png)
-![Wrong Input Example](screenshots/wrong_input.png)
+![Working Example](screenshots/working_example.PNG)
+![Wrong Input Example](screenshots/wrong_input.PNG)
 
 ## Running the Program
 1. Install dependencies:
