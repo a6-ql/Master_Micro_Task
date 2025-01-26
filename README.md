@@ -1,4 +1,5 @@
 1. Requirements
+   
 1. Write a Python GUI program that performs the following:
 a. Take TWO functions of x from the user, e.g., 5*x^3 + 2*x
 b. Solve the two functions
