@@ -1,4 +1,4 @@
-1. Requirements
+ Requirements
    
 1. Write a Python GUI program that performs the following:
 a. Take TWO functions of x from the user, e.g., 5*x^3 + 2*x
@@ -15,5 +15,5 @@ d. Center and annotate the solution point in the plot
 some of the program main features. Include the testing codes in your repository.
 9. Your code should be well organized and well documented.
 
-2. Deliverables
+ Deliverables
 details in function_plotter folder 
