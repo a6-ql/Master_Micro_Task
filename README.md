@@ -1,1 +1,1 @@
-details in function_plotter/README.md
+details in function_plotter folder
